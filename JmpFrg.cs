@@ -4,6 +4,7 @@ using System;
 
 // you can write to stdout for debugging purposes, e.g.
 // Console.WriteLine("this is a debug message");
+// result: https://app.codility.com/demo/results/trainingPN8X2Z-CBY/ 
 
 class Solution {
     public int solution(int X, int Y, int D) {
